@@ -28,10 +28,3 @@ I am a passionate Software Engineer with over 8 years of experience across the f
 <img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/epic-games-2.svg" alt="EpicStore Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/xbox.svg" alt="Xbox Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-6.svg" alt="PS Logo" width="50" height="50"/>
 
 </p>
-
-### Platforms I built games on
-
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" alt="Steam Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/epic-games-2.svg" alt="EpicStore Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/xbox.svg" alt="Xbox Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/playstation-6.svg" alt="PS Logo" width="50" height="50"/>
-
-</p>
